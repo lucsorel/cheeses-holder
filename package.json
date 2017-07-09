@@ -1,0 +1,17 @@
+{
+  "name": "cheeses-holder",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Luc Sorel",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^16.4.3",
+    "inert": "^4.2.0",
+    "svg.js": "^2.6.2"
+  },
+  "devDependencies": {
+    "eslint": "4.2.0",
+    "eslint-plugin-prettier": "2.1.2",
+    "prettier": "1.5.2"
+  }
+}
